@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+deployed site! https://frogbook2-317b0.web.app/
+
+I'm still in the process of adding complete functionality!
+
+![fb_logo] (https://www.dropbox.com/s/2tglt5lq0poxs01/froglogotransparent.png?raw=1)
+
+frogBook is built with React.jx using MUI for styling on the frontend, and using Firebase for auth and hosting, and Cloud Firestore for the database. 
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
