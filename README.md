@@ -4,7 +4,7 @@ I'm still in the process of adding complete functionality!
 
 ![fb_logo](https://www.dropbox.com/s/2tglt5lq0poxs01/froglogotransparent.png?raw=1)
 
-frogBook is built with React.jx using MUI for styling on the frontend, and using Firebase for auth and hosting, and Cloud Firestore for the database. 
+frogBook is built with React.jx using MUI for styling on the frontend, and Firebase for auth + hosting with Cloud Firestore for the database. 
 
 
 
